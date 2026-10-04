@@ -1,6 +1,6 @@
 {
   "name": "robin-hood-hash-table",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Resolves collisions by displacing entries with shorter probe sequences to reduce variance in lookup cost.",
   "type": "module",
   "main": "src/index.js",
